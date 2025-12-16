@@ -10,7 +10,7 @@
   </a>
 </div>
 
-
+<div align="center">
   <p>
     Sou estudante de <b>Ciência da Computação</b>, com foco em <b>Desenvolvimento Web</b>. 
     Estou me especializando na integração entre o <b>Java</b> e a web moderna, dominando a base do frontend com 
@@ -24,6 +24,7 @@
     Além disso, busco me manter atualizado com as novas tendências da área, com o objetivo de me tornar 
     um profissional completo e preparado para os desafios do setor de <b>Engenharia de Software Full Stack</b>.
   </p>
+</div>
 </div>
 
 #
@@ -55,8 +56,8 @@
   
   <div align="left">
     <h3>Connect with me!</h3>
-<a href="daltrostudy@gmail?subject=Olá%20Maria,%20vi%20seu%20GitHub!">
-  <img src="https://img.shields.io/badge/Enviar_Email-000000?style=for-the-badge&logo=gmail&logoColor=00F6A0" alt="Gmail Badge" />
+<a href="mailto:cdaltrostudy@gmail.com?subject=Vi%20seu%20Portfólio%20no%20GitHub">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00F6A0" alt="Gmail" />
 </a>
     <a href="https://www.linkedin.com/in/mclara-daltro/">
       <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00F6A0" target="_blank">
