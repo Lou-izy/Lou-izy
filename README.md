@@ -22,7 +22,7 @@
     Participo ativamente do <b>desenvolvimento de aplicações práticas</b> como forma de aprimorar 
     minhas habilidades de codificação e desenvolver uma mentalidade alinhada às necessidades do mercado. 
     Além disso, busco me manter atualizado com as novas tendências da área, com o objetivo de me tornar 
-    um profissional completo e preparado para os desafios do setor de <b>Engenharia de Software Full Stack</b>.
+    um profissional completo e preparado para os desafios do setor.
   </p>
 </div>
 </div>
@@ -47,13 +47,13 @@
 </div>
 
 #
+
 <div align="center">
 <h3>Desenvolver com "Meraki" é dar alma ao algoritmo e coração ao sistema.</h3>
 
 <div style="display: inline_block">
   <img align="right" width="450" alt="gif" src="download.gif" />
 
-  
   <div align="left">
     <h3>Connect with me!</h3>
 <a href="mailto:cdaltrostudy@gmail.com?subject=Vi%20seu%20Portfólio%20no%20GitHub">
