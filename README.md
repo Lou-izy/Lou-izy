@@ -31,17 +31,6 @@
 
 <div align="center">
   <h3>GITHUB STATS</h3>
-  
-  <div align="center">
-  <a href="https://github.com/Lou-izy">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Lou-izy&show_icons=true&hide_title=true&theme=shadow_green&bg_color=000000&title_color=00F6A0&text_color=FFFFFF&icon_color=00F6A0&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/Lou-izy">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lou-izy&layout=compact&langs_count=6&theme=shadow_green&bg_color=000000&title_color=00F6A0&text_color=FFFFFF&hide=html,scss,less"/>
-  </a>
-</div>
-
-  <br>
 
   <img src="https://github.com/Lou-izy/Lou-izy/blob/output/github-contribution-grid-snake.svg" alt="snake output" />
 </div>
@@ -56,13 +45,12 @@
 
   <div align="left">
     <h3>Connect with me!</h3>
-<a href="mailto:cdaltrostudy@gmail.com?subject=Vi%20seu%20Portfólio%20no%20GitHub">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00F6A0" alt="Gmail" />
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-000000?logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/mclara-daltro/) 
+[![Gmail](https://img.shields.io/badge/-Gmail-000000?style=flat&logo=Gmail&logoColor=white&link=mailto:cdaltrostudy@gmail.com)](mailto:cdaltrostudy@gmail.com)
+
 </a>
-    <a href="https://www.linkedin.com/in/mclara-daltro/">
-      <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00F6A0" target="_blank">
-    </a>
-    <h3>My Stack: </h3>
+    <h3>My Skills: </h3>
     <div style="display: flex; gap: 10px;">
       <img src="https://skillicons.dev/icons?i=java" width="40"/>
       <img src="https://skillicons.dev/icons?i=js" width="40"/>
@@ -70,6 +58,11 @@
       <img src="https://skillicons.dev/icons?i=css" width="40"/>
       <img src="https://skillicons.dev/icons?i=bootstrap" width="40"/>
       <img src="https://skillicons.dev/icons?i=git" width="40"/>
+      <img src="https://skillicons.dev/icons?i=discord" width="40"/>
+       <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+       <img src="https://skillicons.dev/icons?i=notion" width="40"/>
+       <img src="https://skillicons.dev/icons?i=obsidian" width="40"/>
+       <img src="https://skillicons.dev/icons?i=vscode" width="40"/>
     </div>
   </div>
 </div>
