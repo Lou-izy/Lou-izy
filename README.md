@@ -12,17 +12,11 @@
 
 <div align="center">
   <p>
-    Sou estudante de <b>Ciência da Computação</b>, com foco em <b>Desenvolvimento Web</b>. 
-    Estou me especializando na integração entre o <b>Java</b> e a web moderna, dominando a base do frontend com 
-    <b>HTML5, CSS3 e JavaScript</b>. Estudo frequentemente ferramentas como <b>Bootstrap</b> para criar interfaces 
-    responsivas, além de técnicas e metodologias de <b>Programação Orientada a Objetos</b>.
-  </p>
+    Bem-vindo(a) ao meu GitHub! 👋
 
-  <p>
-    Participo ativamente do <b>desenvolvimento de aplicações práticas</b> como forma de aprimorar 
-    minhas habilidades de codificação e desenvolver uma mentalidade alinhada às necessidades do mercado. 
-    Além disso, busco me manter atualizado com as novas tendências da área, com o objetivo de me tornar 
-    um profissional completo e preparado para os desafios do setor.
+Sou uma pesquisadora e desenvolvedora em formação, cursando Ciência da Computação. Meu foco atual é dominar tecnologias como Python / Java / JavaScript, bancos de dados e controle de versão, além de ter um grande interesse pelas áreas de análise de dados e desenvolvimento web.
+
+Transformei este perfil no meu próprio ambiente de trabalho. Meu objetivo aqui é mostrar que a teoria que aprendo na faculdade e na pesquisa acadêmica já está sendo aplicada na prática, provando que estou pronta para escrever código que gere valor desde o primeiro dia de estágio.
   </p>
 </div>
 </div>
