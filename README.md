@@ -59,7 +59,6 @@ I have turned this profile into my own work environment. My goal here is to show
 ![Docker](https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=2496ED)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0f172a?style=flat-square&logo=githubactions&logoColor=2088FF)
 ![Git](https://img.shields.io/badge/Git-0f172a?style=flat-square&logo=git&logoColor=F05032)
-![Android Studio](https://img.shields.io/badge/Android_Studio-0f172a?style=flat-square&logo=androidstudio&logoColor=3DDC84)
 ![VS Code](https://img.shields.io/badge/VS_Code-0f172a?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
 ![Linux](https://img.shields.io/badge/Linux-0f172a?style=flat-square&logo=linux&logoColor=FCC624)
 ![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=flat-square&logo=html5&logoColor=E34F26)
