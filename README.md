@@ -86,7 +86,6 @@ I have turned this profile into my own work environment. My goal here is to show
   <img src="https://github.com/Lou-izy/Lou-izy/blob/output/github-contribution-grid-snake.svg" alt="snake output" />
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lou-izy&theme=rose&locale=pt_BR)](https://git.io/streak-stats)
 #
 
 <div align="center">
