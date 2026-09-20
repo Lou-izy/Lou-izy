@@ -3,7 +3,7 @@
 
 <div align="center">
 <h1> Maria Clara Daltro | Open to work!</h1>
-<sup>Full Stack Developer &nbsp;·&nbsp; Data Analysis </sup>
+<sup> Computer Science &nbsp;·&nbsp; Frontend Developer &nbsp;·&nbsp; Data Analysis </sup>
 </div>
 
 </td>
@@ -110,3 +110,4 @@ I have turned this profile into my own work environment. My goal here is to show
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB3DE,100:000000&height=100&section=footer&animation=fadeIn" />
+
