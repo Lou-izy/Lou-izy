@@ -45,11 +45,8 @@ I have turned this profile into my own work environment. My goal here is to show
 ![Java](https://img.shields.io/badge/Java-0f172a?style=flat-square&logo=openjdk&logoColor=E76F00)
 ![Python](https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=FFDE57)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0f172a?style=flat-square&logo=springboot&logoColor=6DB33F)
-![FastAPI](https://img.shields.io/badge/FastAPI-0f172a?style=flat-square&logo=fastapi&logoColor=009688)
 ![React](https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
 ![Tailwind](https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=flat-square&logo=mysql&logoColor=4479A1)
@@ -60,7 +57,6 @@ I have turned this profile into my own work environment. My goal here is to show
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0f172a?style=flat-square&logo=githubactions&logoColor=2088FF)
 ![Git](https://img.shields.io/badge/Git-0f172a?style=flat-square&logo=git&logoColor=F05032)
 ![VS Code](https://img.shields.io/badge/VS_Code-0f172a?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
-![Linux](https://img.shields.io/badge/Linux-0f172a?style=flat-square&logo=linux&logoColor=FCC624)
 ![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=flat-square&logo=css3&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0f172a?style=flat-square&logo=bootstrap&logoColor=7952B3)
@@ -90,6 +86,7 @@ I have turned this profile into my own work environment. My goal here is to show
   <img src="https://github.com/Lou-izy/Lou-izy/blob/output/github-contribution-grid-snake.svg" alt="snake output" />
 </div>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lou-izy&theme=rose&locale=pt_BR)](https://git.io/streak-stats)
 #
 
 <div align="center">
