@@ -29,7 +29,7 @@
 
 <div align="center">
   <p>
-Welcome(s) to my GitHub! 👋
+Welcome to my GitHub! 👋
 
 I am a researcher and developer in training, studying Computer Science. My current focus is mastering technologies like Python / Java / JavaScript, databases, and version control, as well as having a strong interest in data analysis and web development. 
 
@@ -76,15 +76,12 @@ I have turned this profile into my own work environment. My goal here is to show
 
 </div>
 
-<br/>
-
 #
 
 <div align="center">
-  <h3>GITHUB STATS</h3>
   <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=FFB3DE&center=true&vCenter=true&width=900&lines=PRESS+START+TO+BEGIN...;Computer+Science;DEVELOPING" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=PRESS+STAR+TO+BEGIN...;INITIALIZING...;LOADING+DATA...;GITHUB+STATS;STACK+ANALYTICS;DEVELOPING...;BUILDING...;CONTRIBUTIONS;SYSTEM+ONLINE" alt="Typing SVG" />
   </a>
 </div>
 </div>
@@ -93,7 +90,7 @@ I have turned this profile into my own work environment. My goal here is to show
   <img src="https://github.com/Lou-izy/Lou-izy/blob/output/github-contribution-grid-snake.svg" alt="snake output" />
 </div>
 
----
+#
 
 <div align="center">
 <h3>𐃯 wins </h3> 
@@ -111,6 +108,5 @@ I have turned this profile into my own work environment. My goal here is to show
   [![Gmail](https://img.shields.io/badge/-Gmail-000000?style=flat&logo=Gmail&logoColor=white&link=mailto:cdaltrostudy@gmail.com)](mailto:cdaltrostudy@gmail.com)
   [![Profile Views](https://komarev.com/ghpvc/?username=Lou-izy&style=flat-square&color=475569&label=views)](https://github.com/Lou-izy)
 
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB3DE,100:000000&height=100&section=footer&animation=fadeIn" />
